@@ -949,6 +949,8 @@ vendors:
   # valine comment
   # Example: https://cdn.jsdelivr.net/npm/valine@1.1.8/dist/Valine.min.js
   valine:
+    appId: gs4XxRz1HG66wfK2k5su02D5-gzGzoHsz
+    appKey: SfmoXDMrxNUPUHWIJIoHlsY8
 
 
 # Assets
