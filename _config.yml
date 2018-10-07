@@ -119,8 +119,8 @@ index_with_subtitle: false
 menu:
   home: / || home
   about: /about.html || user
-  #tags: /tags/ || tags
-  categories: /categories/ || th
+  博客: /tags/blog || tags
+  #categories: /categories.html || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
